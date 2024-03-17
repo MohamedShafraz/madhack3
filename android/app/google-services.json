@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185066465246",
+    "project_id": "jobbed-184a6",
+    "storage_bucket": "jobbed-184a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185066465246:android:db0475c29aede85f175f4f",
+        "android_client_info": {
+          "package_name": "com.example.jobbed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOHQ7oY3J_00X4ympR6BHUWkuxbogUYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185066465246:android:240d948badcf50f7175f4f",
+        "android_client_info": {
+          "package_name": "com.example.jobbed_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOHQ7oY3J_00X4ympR6BHUWkuxbogUYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
